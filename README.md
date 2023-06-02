@@ -1,3 +1,7 @@
+# Video
+
+[![Watch the video](https://img.youtube.com/vi/GHUNzTlF7FQ/maxresdefault.jpg)](https://youtu.be/GHUNzTlF7FQ)
+
 # Task description
 
 - Create MySQL table `logs` with the next mandatory columns:
